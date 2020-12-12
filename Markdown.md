@@ -46,9 +46,11 @@ Depending on the application you use, you may not be able to preview the formatt
     The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions.\
     Markdown 格式语法的首要设计目标是使其尽可能的可读。其理念是，一个 Markdown 格式的文档，应按照纯文本的形式发布，而不是看起来像是被标记的标记或格式说明文档。
 
-Why Use Markdown?
+Why Use Markdown?\
+为什么要使用 Markdown?
 
-You might be wondering why people use Markdown instead of a WYSIWYG editor. Why write with Markdown when you can press buttons in an interface to format your text? As it turns out, there are a couple different reasons why people use Markdown instead of WYSIWYG editors.
+You might be wondering why people use Markdown instead of a WYSIWYG editor. Why write with Markdown when you can press buttons in an interface to format your text? As it turns out, there are a couple different reasons why people use Markdown instead of WYSIWYG editors.\
+你可能想知道为什么人们使用 Markdown 而不是所见即所得的文本编辑器。当你可以按界面中的按钮来格式化文本时，为什么要用 Markdown 进行写入？事实证明，有几个不同的原因，为什么人们使用 Markdown，而不是所见即所得的文本编辑器。
 
     Markdown can be used for everything. People use it to create websites, documents, notes, books, presentations, email messages, and technical documentation.
 
