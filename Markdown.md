@@ -40,7 +40,7 @@ Atom 文本编辑器中的Markdown文件
 You can add Markdown formatting elements to a plaintext file using a text editor application. Or you can use one of the many Markdown applications for macOS, Windows, Linux, iOS, and Android operating systems. There are also several web-based applications specifically designed for writing in Markdown.\
 你可以使用文本编辑器在纯文本文件当中加入 Markdown 格式元素。或者，你可以使用 macOS、Windows、Linux、iOS 和 Android 操作系统中的许多 Markdown 应用程序。还有几个专门设计的，为了在 Web 端写 Markdown 文件的应用程序。
 
-Depending on the application you use, you may not be able to preview the formatted document in real time. But that’s okay. According to Gruber, Markdown syntax is designed to be readable and unobtrusive, so the text in Markdown files can be read even if it isn’t rendered.\
+Depending on the application you use, you may not be able to preview the formatted document in real time. But that’s okay. [According to Gruber](https://daringfireball.net/projects/markdown/), Markdown syntax is designed to be readable and unobtrusive, so the text in Markdown files can be read even if it isn’t rendered.\
 根据你使用的应用程序，可能无法实时预览格式化的文档。不过，没有关系。根据 Gruber 的说法，Markdown 的语法设计为可读且不突显，因此即使未呈现，也可以读取 Markdown 文件中的文本。
 
     The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions.\
