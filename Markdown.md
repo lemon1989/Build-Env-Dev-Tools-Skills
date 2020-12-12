@@ -33,6 +33,7 @@ Using Markdown is different than using a [WYSIWYG](https://en.wikipedia.org/wiki
 
 For instance, to denote a heading, you add a number sign before it (e.g., # Heading One). Or to make a phrase bold, you add two asterisks before and after it (e.g., **this text is bold**). It may take a while to get used to seeing Markdown syntax in your text, especially if you’re accustomed to WYSIWYG applications. The screenshot below shows a Markdown file displayed in the [Atom text editor](https://atom.io/ "Atom comes pre-installed with four UI and eight syntax themes in both dark and light colors. Can't find what you're looking for? Install themes created by the Atom community or create your own. Customization. It's easy to customize and style Atom. Tweak the look and feel of your UI with CSS/Less, and add major features with HTML and JavaScript.").\
 例如，表示一个标题，你可以在文本前添加一个符号（例如，# 一级标题）。或者使用短语加粗，你可以在文本前后添加两个星号（例如，**此文本为粗体**）。你可能需要一段时间才能习惯在文本中查看 Markdown 语法，尤其当您已习惯于所见即所得的应用程序。在下面的屏幕截图，展示了 Markdown 文件在 Atom 文本编辑器中是如何显示的。
+![这是图片](/assets/img/philly-magic-garden.jpg "Magic Gardens")\
 
 Markdown file in the Atom text editor
 
