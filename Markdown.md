@@ -5,7 +5,7 @@
 
 1.[Markdown Guide](https://www.markdownguide.org/ "The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.")
 
-2.https://typora.io/ 
+2.[Typora — a markdown editor, markdown reader.](https://typora.io/ "Readable & Writable. Typora gives you a seamless experience as both a reader and a writer. It removes the preview window, mode switcher, syntax symbols of markdown source code, and all other unnecessary distractions. Instead, it provides a real live preview feature to help you concentrate on the content itself.")
 
 3.https://markdown.com.cn/basic-syntax/code.html
 
