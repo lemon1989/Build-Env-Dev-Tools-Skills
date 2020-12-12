@@ -9,7 +9,9 @@
 
 3.[Markdown 代码语法 | Markdown 语法教程](https://markdown.com.cn/basic-syntax/code.html "Markdown 代码语法 | Markdown 语法教程")
 
-4.http://www.mdeditor.com/
+4.[Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax "Nearly all Markdown applications support the basic syntax outlined in John Gruber’s original design document. There are minor variations and discrepancies between Markdown processors — those are noted inline wherever possible.")
+
+5.[Markdown在线编辑器 - MdEditor](http://www.mdeditor.com/ "MdEditor源于Pandao的JavaScript开源项目，开源地址Editor.md，并在MIT开源协议的许可范围内进行了优化，以适应广大用户群体的需求。向优秀的markdown开源编辑器原作者Pandao致敬。 MdEditor的功能列表演示 标题H1 标题H2 标题H3 标题H4 标题H5 标题H5 字符效果和横线等")
 
 #### MarkdownGuide Getting-Started - 翻译
 ##### https://www.markdownguide.org/getting-started/ 
