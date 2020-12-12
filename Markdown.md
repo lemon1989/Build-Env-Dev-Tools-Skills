@@ -33,11 +33,12 @@ Using Markdown is different than using a [WYSIWYG](https://en.wikipedia.org/wiki
 
 For instance, to denote a heading, you add a number sign before it (e.g., # Heading One). Or to make a phrase bold, you add two asterisks before and after it (e.g., **this text is bold**). It may take a while to get used to seeing Markdown syntax in your text, especially if you’re accustomed to WYSIWYG applications. The screenshot below shows a Markdown file displayed in the [Atom text editor](https://atom.io/ "Atom comes pre-installed with four UI and eight syntax themes in both dark and light colors. Can't find what you're looking for? Install themes created by the Atom community or create your own. Customization. It's easy to customize and style Atom. Tweak the look and feel of your UI with CSS/Less, and add major features with HTML and JavaScript.").\
 例如，表示一个标题，你可以在文本前添加一个符号（例如，# 一级标题）。或者使用短语加粗，你可以在文本前后添加两个星号（例如，**此文本为粗体**）。你可能需要一段时间才能习惯在文本中查看 Markdown 语法，尤其当您已习惯于所见即所得的应用程序。在下面的屏幕截图，展示了 Markdown 文件在 Atom 文本编辑器中是如何显示的。
-![这是图片](/assets/img/philly-magic-garden.jpg "Magic Gardens")\
 
-Markdown file in the Atom text editor
+Markdown file in the Atom text editor\
+Atom 文本编辑器中的Markdown文件
 
-You can add Markdown formatting elements to a plaintext file using a text editor application. Or you can use one of the many Markdown applications for macOS, Windows, Linux, iOS, and Android operating systems. There are also several web-based applications specifically designed for writing in Markdown.
+You can add Markdown formatting elements to a plaintext file using a text editor application. Or you can use one of the many Markdown applications for macOS, Windows, Linux, iOS, and Android operating systems. There are also several web-based applications specifically designed for writing in Markdown.\
+你可以使用文本编辑器在纯文本文件当中加入 Markdown 格式元素。或者，你可以使用 macOS、Windows、Linux、iOS 和 Android 操作系统中的许多 Markdown 应用程序。还有几个专门设计的，为了在 Web 端写 Markdown 文件的应用程序。
 
 Depending on the application you use, you may not be able to preview the formatted document in real time. But that’s okay. According to Gruber, Markdown syntax is designed to be readable and unobtrusive, so the text in Markdown files can be read even if it isn’t rendered.
 
