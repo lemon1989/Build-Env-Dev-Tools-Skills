@@ -52,15 +52,20 @@ Why Use Markdown?\
 You might be wondering why people use Markdown instead of a WYSIWYG editor. Why write with Markdown when you can press buttons in an interface to format your text? As it turns out, there are a couple different reasons why people use Markdown instead of WYSIWYG editors.\
 你可能想知道为什么人们使用 Markdown 而不是所见即所得的文本编辑器。当你可以按界面中的按钮来格式化文本时，为什么要用 Markdown 进行写入？事实证明，有几个不同的原因，为什么人们使用 Markdown，而不是所见即所得的文本编辑器。
 
-    Markdown can be used for everything. People use it to create websites, documents, notes, books, presentations, email messages, and technical documentation.
+-   Markdown can be used for everything. People use it to create websites, documents, notes, books, presentations, email messages, and technical documentation.\
+-   Markdown 可用于所有内容。人们用它来创建网站、文档、笔记、书籍、演示文稿、电子邮件和技术文档。
 
-    Markdown is portable. Files containing Markdown-formatted text can be opened using virtually any application. If you decide you don’t like the Markdown application you’re currently using, you can import your Markdown files into another Markdown application. That’s in stark contrast to word processing applications like Microsoft Word that lock your content into a proprietary file format.
+-   Markdown is portable. Files containing Markdown-formatted text can be opened using virtually any application. If you decide you don’t like the Markdown application you’re currently using, you can import your Markdown files into another Markdown application. That’s in stark contrast to word processing applications like Microsoft Word that lock your content into a proprietary file format.\
+-   Markdown 是可移植的。包含 Markdown 格式文本的文件几乎可以使用任何应用程序打开。如果你决定不喜欢当前使用的 Markdown 应用程序，你可以将 Markdown 文件导入另一个 Markdown 应用程序。这与将内容锁定为专有文件格式的 Microsoft Word 等文字处理应用程序形成鲜明对比。
 
-    Markdown is platform independent. You can create Markdown-formatted text on any device running any operating system.
+-   Markdown is platform independent. You can create Markdown-formatted text on any device running any operating system.\
+-   Markdown 是独立于平台的。你可以在运行任何操作系统的任何设备上创建 Markdown 格式的文本。
 
-    Markdown is future proof. Even if the application you’re using stops working at some point in the future, you’ll still be able to read your Markdown-formatted text using a text editing application. This is an important consideration when it comes to books, university theses, and other milestone documents that need to be preserved indefinitely.
+-   Markdown is future proof. Even if the application you’re using stops working at some point in the future, you’ll still be able to read your Markdown-formatted text using a text editing application. This is an important consideration when it comes to books, university theses, and other milestone documents that need to be preserved indefinitely.\
+-   Markdown 在未来任何时间都是有效的。即使你的文本应用程序在将来的某些时间不能使用，你仍然可以使用文本编辑器来读取 Markdown 格式的文本。当涉及到书籍、大学文献和其他需要无限期保存的里程碑文件时，这是一个重要的考虑因素。
 
-    Markdown is everywhere. Websites like Reddit and GitHub support Markdown, and lots of desktop and web-based applications support it.
+-   Markdown is everywhere. Websites like Reddit and GitHub support Markdown, and lots of desktop and web-based applications support it.\
+-   Markdown 无处不在。例如，Reddit和GitHub这样的网站支持 Markdown，同时很多桌面和基于 Web 的应用程序都支持它。
 
 Kicking the Tires
 
