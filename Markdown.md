@@ -10,15 +10,16 @@
 #### MarkDownGuide Getting-Started - 翻译
 ##### https://www.markdownguide.org/getting-started/ 
 
-Getting Started
+Getting Started\
 开始
-An overview of Markdown, how it works, and what you can do with it.
+
+An overview of Markdown, how it works, and what you can do with it.\
 Markdown概述，它是如何工作的，以及你用它可以做什么。
 
-What is Markdown?
+What is Markdown?\
 什么是Markdown？
 
-Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
+Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.\
 Markdown 是一种轻量级标记语言，你可以在纯文本格式文档中添加格式元素。Markdown 由 John Gruber 于 2004 年创建，现在已经成为世界上最受欢迎的标记语言之一。
 
 Using Markdown is different than using a WYSIWYG editor. In an application like Microsoft Word, you click buttons to format words and phrases, and the changes are visible immediately. Markdown isn’t like that. When you create a Markdown-formatted file, you add Markdown syntax to the text to indicate which words and phrases should look different.
