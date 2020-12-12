@@ -1,4 +1,4 @@
-## MarkDown
+## Markdown
 *It's so Coll.*
 
 #### Refer to the URL
@@ -9,7 +9,7 @@
 
 3.https://markdown.com.cn/basic-syntax/code.html
 
-#### MarkDownGuide Getting-Started - 翻译
+#### MarkdownGuide Getting-Started - 翻译
 ##### https://www.markdownguide.org/getting-started/ 
 
 Getting Started\
