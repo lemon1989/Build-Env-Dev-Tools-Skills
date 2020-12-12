@@ -28,7 +28,7 @@ What is Markdown?\
 Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by  [John Gruber](https://daringfireball.net/projects/markdown/ "author") in 2004, Markdown is now one of the world’s most popular markup languages.\
 Markdown 是一种轻量级标记语言，你可以在纯文本格式文档中添加格式元素。Markdown 由 John Gruber 于 2004 年创建，现在已经成为世界上最受欢迎的标记语言之一。
 
-Using Markdown is different than using a WYSIWYG editor. In an application like Microsoft Word, you click buttons to format words and phrases, and the changes are visible immediately. Markdown isn’t like that. When you create a Markdown-formatted file, you add Markdown syntax to the text to indicate which words and phrases should look different.\
+Using Markdown is different than using a [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG "所见即所得") editor. In an application like Microsoft Word, you click buttons to format words and phrases, and the changes are visible immediately. Markdown isn’t like that. When you create a Markdown-formatted file, you add Markdown syntax to the text to indicate which words and phrases should look different.\
 使用 Markdown 与使用所见即所得的编辑器不同。在类似微软 Word 应用程序中，你可以单击按钮设置单词和短语的格式，同时这些更改将立即可见。Markdown 不是这样的。当你创建 Markdown 格式文件时，可以向文本中添加 Markdown 语法，用来指示哪些单词和短语的外观存在不同显示。
 
 For instance, to denote a heading, you add a number sign before it (e.g., # Heading One). Or to make a phrase bold, you add two asterisks before and after it (e.g., **this text is bold**). It may take a while to get used to seeing Markdown syntax in your text, especially if you’re accustomed to WYSIWYG applications. The screenshot below shows a Markdown file displayed in the Atom text editor.\
