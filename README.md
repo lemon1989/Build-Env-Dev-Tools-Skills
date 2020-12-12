@@ -4,6 +4,6 @@
 
 1.CMake supports GDB debugging when compiled
 
-#### MarkDown
+#### Markdown
 
-1.MarkDown Edit Syntax
+1.Markdown Edit Syntax
