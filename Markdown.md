@@ -25,9 +25,11 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 Markdown 是一种轻量级标记语言，你可以在纯文本格式文档中添加格式元素。Markdown 由 John Gruber 于 2004 年创建，现在已经成为世界上最受欢迎的标记语言之一。
 
 Using Markdown is different than using a WYSIWYG editor. In an application like Microsoft Word, you click buttons to format words and phrases, and the changes are visible immediately. Markdown isn’t like that. When you create a Markdown-formatted file, you add Markdown syntax to the text to indicate which words and phrases should look different.\
-使用 Markdown 与使用所见即所得的编辑器不同。在类似微软 Word 应用程序中，你可以单击按钮设置单词和短语的格式，同时更改将立即可见。Markdown不是这样的。当你创建 Markdown 格式文件时，可以向文本中添加 Markdown 语法以指示哪些单词和短语的外观有不同显示。
+使用 Markdown 与使用所见即所得的编辑器不同。在类似微软 Word 应用程序中，你可以单击按钮设置单词和短语的格式，同时这些更改将立即可见。Markdown 不是这样的。当你创建 Markdown 格式文件时，可以向文本中添加 Markdown 语法，用来指示哪些单词和短语的外观存在不同显示。
 
-For instance, to denote a heading, you add a number sign before it (e.g., # Heading One). Or to make a phrase bold, you add two asterisks before and after it (e.g., **this text is bold**). It may take a while to get used to seeing Markdown syntax in your text, especially if you’re accustomed to WYSIWYG applications. The screenshot below shows a Markdown file displayed in the Atom text editor.
+For instance, to denote a heading, you add a number sign before it (e.g., # Heading One). Or to make a phrase bold, you add two asterisks before and after it (e.g., **this text is bold**). It may take a while to get used to seeing Markdown syntax in your text, especially if you’re accustomed to WYSIWYG applications. The screenshot below shows a Markdown file displayed in the Atom text editor.\
+例如，表示一个标题，你可以在文本前添加一个符号（例如，# 一级标题）。或者使用短语加粗，你可以在文本前后添加两个星号（例如，**此文本为粗体**）。你可能需要一段时间才能习惯在文本中查看 Markdown 语法，尤其当您已习惯于所见即所得的应用程序。在下面的屏幕截图，展示了 Markdown 文件在 Atom 文本编辑器中是如何显示的。
+
 Markdown file in the Atom text editor
 
 You can add Markdown formatting elements to a plaintext file using a text editor application. Or you can use one of the many Markdown applications for macOS, Windows, Linux, iOS, and Android operating systems. There are also several web-based applications specifically designed for writing in Markdown.
