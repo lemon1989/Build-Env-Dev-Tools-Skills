@@ -70,6 +70,7 @@ You might be wondering why people use Markdown instead of a WYSIWYG editor. Why 
 
 ## Kicking the Tires
    开始吧
+   
    The best way to get started with Markdown is to use it. That’s easier than ever before thanks to a variety of free tools.\
    开始 Markdown 的最佳方法就是使用它。由于各种免费工具，这比以往更容易。
    
