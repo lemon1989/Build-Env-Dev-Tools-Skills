@@ -70,6 +70,14 @@ You might be wondering why people use Markdown instead of a WYSIWYG editor. Why 
 
 ## Kicking the Tires
    开始吧
+   The best way to get started with Markdown is to use it. That’s easier than ever before thanks to a variety of free tools.\
+   开始 Markdown 的最佳方法就是使用它。由于各种免费工具，这比以往更容易。
+   
+   You don’t even need to download anything. There are several online Markdown editors that you can use to try writing in Markdown. Dillinger is one of the best online Markdown editors. Just open the site and start typing in the left pane. A preview of the rendered document appears in the right pane.\
+   你甚至不需要下载任何内容。有几个在线 Markdown 编辑器，你可以使用这些编辑器尝试在"Markdown"中写入。Dillinger 是最好的在线 Markdown 编辑器之一。只需打开网站，并在左侧窗格中键入即可。呈现文档的预览将显示在右侧窗格中。
+   
+   You’ll probably want to keep the Dillinger website open as you read through this guide. That way you can try the syntax as you learn about it. After you’ve become familiar with Markdown, you may want to use a Markdown application that can be installed on your desktop computer or mobile device.\
+   在阅读本指南时，你可能想要保持 Dillinger 网站是打开的状态。这样，你就可以在了解语法的同时尝试语法。熟悉 Markdown 后，你可能希望使用可安装在桌面计算机或移动设备上的 Markdown 应用程序。
    
 ## How Does it Work?
 
