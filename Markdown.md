@@ -7,7 +7,7 @@
 
 2.[Typora — a markdown editor, markdown reader.](https://typora.io/ "Readable & Writable. Typora gives you a seamless experience as both a reader and a writer. It removes the preview window, mode switcher, syntax symbols of markdown source code, and all other unnecessary distractions. Instead, it provides a real live preview feature to help you concentrate on the content itself.")
 
-3.https://markdown.com.cn/basic-syntax/code.html
+3.[Markdown 代码语法 | Markdown 语法教程](https://markdown.com.cn/basic-syntax/code.html "Markdown 代码语法 | Markdown 语法教程")
 
 4.http://www.mdeditor.com/
 
