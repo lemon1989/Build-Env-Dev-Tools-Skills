@@ -111,8 +111,7 @@ You might be wondering why people use Markdown instead of a WYSIWYG editor. Why 
    在 Web 浏览器中查看 HTML 文件，或使用 Markdown 应用程序将其转换为其他文件格式（如 PDF）。
 
 From your perspective, the process will vary somewhat depending on the application you use. For example, Dillinger essentially combines steps 1-3 into a single, seamless interface — all you have to do is type in the left pane and the rendered output magically appears in the right pane. But if you use other tools, like a text editor with a static website generator, you’ll find that the process is much more visible.\
-从你的角度来看，这个过程会因你使用的应用程序而有所不同。例如，Dillinger 实质地将步骤 1-3 合并到一个无缝的界面中 ， 你所能做的就是在左侧窗格中键入，渲染的输出神奇地显示在右侧窗格中。但是，如果你使用其他工具（如带静态网站生成器的文本编辑器），你会发现这个过程更加明显。
-
+从你的角度来看，这个过程会因你使用的应用程序而有所不同。例如，Dillinger 实质地将步骤 1-3 合并到一个无缝的界面中 ， 你所能做的就是在左侧窗格中键入，渲染的输出神奇地显示在右侧窗格中。但是，如果你使用其他工具，比如，带有静态网站生成器的文本编辑器，你会发现这个过程会更加的明显。
 
 ## What’s Markdown Good For?
 
