@@ -84,10 +84,10 @@ You might be wondering why people use Markdown instead of a WYSIWYG editor. Why 
    它是如何工作的？
   
    Dillinger makes writing in Markdown easy because it hides the stuff happening behind the scenes, but it’s worth exploring how the process works in general.\
-   Dillinger 使在 Markdown 下的书写变得容易，因为它隐藏了幕后发生的事情，但一般值得探索这个过程是如何工作的。
+   Dillinger 使在 Markdown 下的书写变得容易，因为它隐藏了幕后实现，但一般值得探索这个过程是如何工作的。
    
    When you write in Markdown, the text is stored in a plaintext file that has an .md or .markdown extension. But then what? How is your Markdown-formatted file converted into HTML or a print-ready document?\
-   当你在 Markdown 中写入时，文本存储在具有 .md 或 .markdown 扩展名的纯文本文件中。那又如何呢？Markdown 格式的文件是如何转换为 HTML 或可打印的文档？
+   当你在 Markdown 中写入时，文本被存储在具有 .md 或 .markdown 扩展名的纯文本文件中。那又如何呢？Markdown 格式的文件是如何转换为 HTML 或可打印的文档？
    
    The short answer is that you need a Markdown application capable of processing the Markdown file. There are lots of applications available — everything from simple scripts to desktop applications that look like Microsoft Word. Despite their visual differences, all of the applications do the same thing. Like Dillinger, they all convert Markdown-formatted text to HTML so it can be displayed in web browsers.\
    简短的答案是，你需要一个能够处理 Markdown 格式文件的 Markdown 应用程序。有很多应用程序可用 - 从简单的脚本到桌面应用程序，看起来像微软 Word 一样。尽管他们在视觉上存在差异，但所有应用程序都做同样的事情。与 Dillinger 一样，它们都将 Markdown 格式的文本转换为 HTML，以便可以在 Web 浏览器中显示。
