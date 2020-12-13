@@ -150,20 +150,20 @@ Here are some Markdown document authoring applications I recommend:\
 以下是我推荐的一些创作 Markdown 文档的应用程序：
 
 
--     Mac: MacDown, iA Writer, or Marked\
-      Mac： MacDown、 iA Writer或 Marked
+-   Mac: MacDown, iA Writer, or Marked\
+    Mac： MacDown、 iA Writer或 Marked
       
--     iOS / Android: iA Writer\
-      iOS / Android: iA Writer
+-   iOS / Android: iA Writer\
+    iOS / Android: iA Writer
       
--     Windows: ghostwriter or Markdown Monster\
-      Windows: ghostwriter or Markdown Monster
+-   Windows: ghostwriter or Markdown Monster\
+    Windows: ghostwriter or Markdown Monster
       
--     Linux: ReText or ghostwriter\
-      Linux: ReText or ghostwriter
+-   Linux: ReText or ghostwriter\
+    Linux: ReText or ghostwriter
       
--     Web: Dillinger or StackEdit\
-      Web: Dillinger or StackEdit
+-   Web: Dillinger or StackEdit\
+    Web: Dillinger or StackEdit
 
 ### Notes
 Notes
