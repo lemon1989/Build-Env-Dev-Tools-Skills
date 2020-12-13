@@ -141,6 +141,29 @@ If you’d like to use a content management system (CMS) to power your website, 
 如果你想使用内容管理系统 （CMS） 为网站供电，使用 Ghost。这是一个免费的开源博客平台，有一个不错的 Markdown 编辑器。如果你是 WordPress 用户，你将很高兴地知道，你在 WordPress.com网站上托管的网站支持 Markdown。自托管的 WordPress 网站可以使用 Jetpack 插件。
 
 ### Documents
+文件
+
+Markdown doesn’t have all the bells and whistles of word processors like Microsoft Word, but it’s good enough for creating basic documents like assignments and letters. You can use a Markdown document authoring application to create and export Markdown-formatted documents to PDF or HTML file format. The PDF part is key, because once you have a PDF document, you can do anything with it — print it, email it, or upload it to a website.\
+Markdown 没有像 Microsoft Word 具有文字处理器的所有功能，但它对于创建基本文档（如赋值和字母）来说已经足够了。你可以使用创作 Markdown 文档的应用程序来创建和导出 Markdown 格式的文档，并导出为 PDF 或 HTML 文件格式。PDF 部分是关键，因为一旦你有一个PDF文档，你可以做任何事情 - 打印它，通过电子邮件发送，或上传到一个网站。
+
+Here are some Markdown document authoring applications I recommend:\
+以下是我推荐的一些创作 Markdown 文档的应用程序：
+
+
+    - Mac: MacDown, iA Writer, or Marked\
+      Mac： MacDown、 iA Writer或 Marked
+      
+    - iOS / Android: iA Writer\
+      iOS / Android: iA Writer
+      
+    - Windows: ghostwriter or Markdown Monster\
+      Windows: ghostwriter or Markdown Monster
+      
+    - Linux: ReText or ghostwriter\
+      Linux: ReText or ghostwriter
+      
+    - Web: Dillinger or StackEdit\
+      Web: Dillinger or StackEdit
 
 ### Notes
 
