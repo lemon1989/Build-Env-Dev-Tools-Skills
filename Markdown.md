@@ -125,19 +125,19 @@ It doesn’t take long to learn the Markdown syntax, and once you know how to us
 Here are some examples of what you can do with Markdown.\
 下面是一些有关使用 Markdown 可以做什么的示例。
 
-## Websites
+### Websites
 
-## Documents
+### Documents
 
-## Notes
+### Notes
 
-## Books
+### Books
 
-## Presentations
+### Presentations
 
-## Email
+### Email
 
-## Documentation
+### Documentation
 
 ## Flavors of Markdown
 
