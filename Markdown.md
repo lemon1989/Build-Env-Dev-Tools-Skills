@@ -185,7 +185,7 @@ In nearly every way, Markdown is the ideal syntax for taking notes. Sadly, Evern
     Boostnote 宣布自己是一个"专为程序员设计的开源笔记应用"。
 
 If you can’t part with Evernote, check out Marxico, a subscription-based Markdown editor for Evernote, or use Markdown Here with the Evernote website.\
-如果你必须使用 Evernote，请查看基于 Evernote 设计的 Markdown 编辑器 Marxico，或者使用 Evernote 网站上的 Markdown。
+如果你必须使用 Evernote，使用基于 Evernote 设计的 Markdown 编辑器 Marxico，或者使用 Evernote 网站上的 Markdown。
 
 ### Books
 
