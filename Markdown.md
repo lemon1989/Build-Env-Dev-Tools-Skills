@@ -166,7 +166,7 @@ Here are some Markdown document authoring applications I recommend:\
     Web: Dillinger or StackEdit
 
 ### Notes
-Notes
+笔记
 
 In nearly every way, Markdown is the ideal syntax for taking notes. Sadly, Evernote and OneNote, two of the most popular note applications, don’t currently support Markdown. The good news is that several other note applications do support Markdown:\
 在几乎所有方面，Markdown 都是做笔记的理想语法。可悲的是， Evernote 和 OneNote， 两个最流行的笔记应用程序， 目前不支持标记。好消息是，其他几个笔记应用程序支持 Markdown：
