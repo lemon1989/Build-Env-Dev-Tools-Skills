@@ -126,6 +126,19 @@ Here are some examples of what you can do with Markdown.\
 下面是一些有关使用 Markdown 可以做什么的示例。
 
 ### Websites
+网站
+
+Markdown was designed for the web, so it should come as no surprise that there are plenty of applications specifically designed for creating website content.\
+Markdown 是为 Web 网站设计的，因此，有很多专门为创建网站内容而设计的应用程序，这点不足为奇。
+
+If you’re looking for the simplest possible way to create a website with Markdown files, check out blot.im and smallvictori.es. After you sign up for one of these services, they create a Dropbox folder on your computer. Just drag and drop your Markdown files into the folder and — poof! — they’re on your website. It couldn’t be easier.\
+如果你正在寻找使用 Markdown 文件来创建一个网站的最简单的方法，使用 blot.im 和 smallvictori.es。注册任一这些服务后，他们会在你的计算机上创建一个 Dropbox 文件夹。只需将 Markdown 文件拖入并放置到 Dropbox 文件夹中，然后执行 # poof，它们就会在你的网站上。这简单多了。
+
+If you’re familiar with HTML, CSS, and version control, check out Jekyll, a popular static site generator that takes Markdown files and builds an HTML website. One advantage to this approach is that GitHub Pages provides free hosting for Jekyll-generated websites. If Jekyll isn’t your cup of tea, just pick one of the many other static site generators available.\
+如果你熟悉 HTML、CSS 和版本控制，使用 Jekyll，这是一个流行的静态网站生成器，它采用 Markdown 文件来构建 HTML 网站。这种方法的一个优点是 GitHub Pages 为 Jekyll 生成的网站提供免费托管。如果 Jekyll 不是你的一杯茶，只需选择许多其他静态网站生成器便可使用。
+
+If you’d like to use a content management system (CMS) to power your website, take a look at Ghost. It’s a free and open-source blogging platform with a nice Markdown editor. If you’re a WordPress user, you’ll be happy to know there’s Markdown support for websites hosted on WordPress.com. Self-hosted WordPress sites can use the Jetpack plugin.\
+如果你想使用内容管理系统 （CMS） 为网站供电，使用 Ghost。这是一个免费的开源博客平台，有一个不错的 Markdown 编辑器。如果你是 WordPress 用户，你将很高兴地知道，你在 WordPress.com网站上托管的网站支持 Markdown。自托管的 WordPress 网站可以使用 Jetpack 插件。
 
 ### Documents
 
