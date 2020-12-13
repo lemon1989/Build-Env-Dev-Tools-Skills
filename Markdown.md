@@ -151,7 +151,7 @@ Here are some Markdown document authoring applications I recommend:\
 
 
 -   Mac: MacDown, iA Writer, or Marked\
-    Mac： MacDown、 iA Writer或 Marked
+    Mac: MacDown、 iA Writer或 Marked
       
 -   iOS / Android: iA Writer\
     iOS / Android: iA Writer
@@ -171,6 +171,21 @@ Notes
 In nearly every way, Markdown is the ideal syntax for taking notes. Sadly, Evernote and OneNote, two of the most popular note applications, don’t currently support Markdown. The good news is that several other note applications do support Markdown:\
 在几乎所有方面，Markdown 都是做笔记的理想语法。可悲的是， Evernote 和 OneNote， 两个最流行的笔记应用程序， 目前不支持标记。好消息是，其他几个笔记应用程序支持 Markdown：
 
+
+-   Simplenote is a free, barebones note-taking application available for every platform.\
+    Simplenote 是一个免费的、极简单的笔记应用程序，可用于每个平台。
+    
+-   Notable is a note-taking application that runs on a variety of platforms.\
+    Notable 是一个在各种平台上运行的笔记应用程序。
+    
+-   Bear is an Evernote-like application available for Mac and iOS devices. It doesn’t exclusively use Markdown by default, but you can enable Markdown compatibility mode.\
+    Bear是一个像 Evernote 一样的应用程序，适用于 Mac 和 iOS 设备。默认情况下，它不独占使用 Markdown，但你可以启用 Markdown 兼容性模式。
+    
+-   Boostnote bills itself as an “open source note-taking app designed for programmers.”\
+    Boostnote 宣布自己是一个"专为程序员设计的开源笔记应用"。
+
+If you can’t part with Evernote, check out Marxico, a subscription-based Markdown editor for Evernote, or use Markdown Here with the Evernote website.\
+如果你必须使用 Evernote，请查看基于 Evernote 设计的 Markdown 编辑器 Marxico，或者使用 Evernote 网站上的 Markdown。
 
 ### Books
 
