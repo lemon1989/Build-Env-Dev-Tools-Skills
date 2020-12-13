@@ -114,6 +114,16 @@ From your perspective, the process will vary somewhat depending on the applicati
 从你的角度来看，这个过程会因你使用的应用程序而有所不同。例如，Dillinger 实质地将步骤 1-3 合并到一个无缝的界面中 ， 你所能做的就是在左侧窗格中键入，渲染的输出神奇地显示在右侧窗格中。但是，如果你使用其他工具，比如，带有静态网站生成器的文本编辑器，你会发现这个过程会更加的明显。
 
 ## What’s Markdown Good For?
+   Markdown 适合什么？
+   
+Markdown is a fast and easy way to take notes, create content for a website, and produce print-ready documents.\
+Markdown 是一种快速、简单的记笔记、为网站创建内容以及生成可打印文档的方法。
+
+It doesn’t take long to learn the Markdown syntax, and once you know how to use it, you can write using Markdown just about everywhere. Most people use Markdown to create content for the web, but Markdown is good for formatting everything from email messages to grocery lists.\
+学习 Markdown 语法不会耗费太长时间，一旦你知道如何使用它，就可以在任何地方使用 Markdown 进行写入。大多数人使用 Markdown 为 Web 创建内容，但 Markdown 适合格式化从电子邮件到购物清单的所有内容。
+
+Here are some examples of what you can do with Markdown.\
+下面是一些有关使用 Markdown 可以做什么的示例。
 
 ## Websites
 
