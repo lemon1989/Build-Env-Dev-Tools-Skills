@@ -42,7 +42,7 @@ You can add Markdown formatting elements to a plaintext file using a text editor
 你可以使用文本编辑器在纯文本文件当中加入 Markdown 格式元素。或者，你可以使用 macOS、Windows、Linux、iOS 和 Android 操作系统中的许多 Markdown 应用程序。还有几个专门设计的，为了在 Web 端写 Markdown 文件的应用程序。
 
 Depending on the application you use, you may not be able to preview the formatted document in real time. But that’s okay. [According to Gruber](https://daringfireball.net/projects/markdown/), Markdown syntax is designed to be readable and unobtrusive, so the text in Markdown files can be read even if it isn’t rendered.\
-根据你使用的应用程序，可能无法实时预览格式化的文档。不过，没有关系。根据 Gruber 的说法，Markdown 的语法设计为可读且不突显，因此即使未呈现，也可以读取 Markdown 文件中的文本。
+根据你使用的应用程序，可能无法实时预览格式化的文档。不过，没有关系。根据 Gruber 的说法，Markdown 的语法设计为可读且不突显，因此即使未渲染，也可以读取 Markdown 文件中的文本。
 
     The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions.\
     Markdown 格式语法的首要设计目标是使其尽可能的可读。其理念是，一个 Markdown 格式的文档，应按照纯文本的形式发布，而不是看起来像是被标记的标记或格式说明文档。
@@ -75,7 +75,7 @@ You might be wondering why people use Markdown instead of a WYSIWYG editor. Why 
    开始 Markdown 的最佳方法就是使用它。由于各种免费工具，这比以往更容易。
    
    You don’t even need to download anything. There are several online Markdown editors that you can use to try writing in Markdown. Dillinger is one of the best online Markdown editors. Just open the site and start typing in the left pane. A preview of the rendered document appears in the right pane.\
-   你甚至不需要下载任何内容。有几个在线 Markdown 编辑器，你可以使用这些编辑器尝试在"Markdown"中写入。Dillinger 是最好的在线 Markdown 编辑器之一。只需打开网站，并在左侧窗格中键入即可。呈现文档的预览将显示在右侧窗格中。
+   你甚至不需要下载任何内容。有几个在线 Markdown 编辑器，你可以使用这些编辑器尝试在"Markdown"中写入。Dillinger 是最好的在线 Markdown 编辑器之一。只需打开网站，并在左侧窗格中键入即可。渲染后的文档的预览将显示在右侧窗格中。
    
    You’ll probably want to keep the Dillinger website open as you read through this guide. That way you can try the syntax as you learn about it. After you’ve become familiar with Markdown, you may want to use a Markdown application that can be installed on your desktop computer or mobile device.\
    在阅读本指南时，你可能想要保持 Dillinger 网站是打开的状态。这样，你就可以在了解语法的同时尝试语法。熟悉 Markdown 后，你可能希望使用可安装在桌面计算机或移动设备上的 Markdown 应用程序。
@@ -95,6 +95,25 @@ You might be wondering why people use Markdown instead of a WYSIWYG editor. Why 
    Markdown applications use something called a Markdown processor (also commonly referred to as a “parser” or an “implementation”) to take the Markdown-formatted text and output it to HTML format. At that point, your document can be viewed in a web browser or combined with a style sheet and printed. You can see a visual representation of this process below.\
    Markdown 应用程序使用 Markdown 处理器（通常也称为"解析器"或"实现"）来处理 Markdown 格式的文本并输出为 HTML 格式。此时，你可以在 Web 浏览器中查看文档，也可以与样式表组合并打印文档。你可以在下面看到此过程的可视化实现形式。
    
+   To summarize, this is a four-part process:\
+   总之，这个过程包含4部分：
+
+   1.Create a Markdown file using a text editor or a dedicated Markdown application. The file should have an .md or .markdown extension.\
+   使用文本编辑器或专用的 Markdown 应用程序创建 Markdown 文件。该文件应具有 .md 或 .markdown 的扩展名。
+   
+   2.Open the Markdown file in a Markdown application.\
+   在 Markdown 应用程序中打开 Markdown 文件。
+   
+   3.Use the Markdown application to convert the Markdown file to an HTML document.\
+   使用"Markdown"应用程序将 Markdown 文件转换为 HTML 文档。
+   
+   4.View the HTML file in a web browser or use the Markdown application to convert it to another file format, like PDF.\
+   在 Web 浏览器中查看 HTML 文件，或使用 Markdown 应用程序将其转换为其他文件格式（如 PDF）。
+
+From your perspective, the process will vary somewhat depending on the application you use. For example, Dillinger essentially combines steps 1-3 into a single, seamless interface — all you have to do is type in the left pane and the rendered output magically appears in the right pane. But if you use other tools, like a text editor with a static website generator, you’ll find that the process is much more visible.\
+从你的角度来看，这个过程会因你使用的应用程序而有所不同。例如，Dillinger 实质地将步骤 1-3 合并到一个无缝的界面中 ， 你所能做的就是在左侧窗格中键入，渲染的输出神奇地显示在右侧窗格中。但是，如果你使用其他工具（如带静态网站生成器的文本编辑器），你会发现这个过程更加明显。
+
+
 ## What’s Markdown Good For?
 
 ## Websites
