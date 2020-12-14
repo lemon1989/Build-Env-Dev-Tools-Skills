@@ -232,8 +232,16 @@ Jekyll 在网站部分前面提到过，但它也是从 Markdown 文件生成文
 Markdown 特色
 
 One of the most confusing aspects of using Markdown is that practically every Markdown application implements a slightly different version of Markdown. These variants of Markdown are commonly referred to as flavors. It’s your job to master whatever flavor of Markdown your application has implemented.\
+一个使用 Markdown 最令人困惑的方面，是几乎每个 Markdown 应用程序都实现了稍微不同的 Markdown 版本。这些 Markdown 的变体通常称为特色。你的工作是掌握你的应用程序已实现的任何 Markdown 方式。
 
+To wrap your head around the concept of Markdown flavors, it might help to think of them as language dialects. People in Ciudad Juárez speak Spanish just like the people in Barcelona, but there are substantial differences between the dialects used in both cities. The same is true for people using different Markdown applications. Using Dillinger to write with Markdown is a vastly different experience than using Ulysses.\
+讲清楚 Markdown 特色的概念，将它们视为语言方言它可能有助理解。华雷斯城的人们讲西班牙语就像巴塞罗那人一样，但这两个城市使用的方言之间却存在很大差异。对于使用不同的 Markdown 应用程序的人也是如此。使用 Dillinger 编写 Markdown 是一种与使用 Ulysses 截然不同的体验。
 
+Practically speaking, this means you never know exactly what a company means when they say they support “Markdown.” Are they talking about only the basic syntax elements, or all of the basic and extended syntax elements combined, or some arbitrary combination of syntax elements? You won’t know until you read the documentation or start using the application.\
+实际上，这意味着当一个公司说他们支持"Markdown"时，你永远不知道他们到底是什么意思。它们只讨论基本语法元素，还是所有基本和扩展语法元素的组合，还是语法元素的任意组合？直到阅读文档或开始使用应用程序，你才会知道。
+
+If you’re just starting out, the best advice I can give you is to pick a Markdown application with good Markdown support. That’ll go a long way towards maintaining the portability of your Markdown files. You might want to store and use your Markdown files in other applications, and to do that you need to start with an application that provides good support. You can use the tool directory to find an application that fits the bill.\
+如果你刚刚起步，我可以给你最好的建议是选择一个支持良好的 Markdown 应用程序。这会有助于维护 Markdown 文件的可移植性。你可能希望在其他应用程序中存储和使用 Markdown 文件，并且需要从提供良好支持的应用程序开始。你可以使用工具目录查找适合自己的应用程序。
 
 ## Additional Resources
 
