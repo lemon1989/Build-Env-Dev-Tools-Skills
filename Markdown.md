@@ -244,8 +244,21 @@ If you’re just starting out, the best advice I can give you is to pick a Markd
 如果你刚刚起步，我可以给你最好的建议是选择一个支持良好的 Markdown 应用程序。这会有助于维护 Markdown 文件的可移植性。你可能希望在其他应用程序中存储和使用 Markdown 文件，并且需要从提供良好支持的应用程序开始。你可以使用工具目录查找适合自己的应用程序。
 
 ## Additional Resources
+其他资源
+
+There are lots of resources you can use to learn Markdown. Here are some other introductory resources:\
+你可以使用大量资源来学习 Markdown。下面是一些其他介绍性资源：
 
 
+-    John Gruber’s Markdown documentation. The original guide written by the creator of Markdown.\
+约翰·格鲁伯的 Markdown 文档。由 Markdown 的创建者编写的原始指南。
 
+-    Markdown Tutorial. An open source website that allows you to try Markdown in your web browser.\
+Markdown 教程。一个开源网站，允许你尝试在你的网络浏览器中使用 Markdown。
 
+-    Awesome Markdown. A list of Markdown tools and learning resources.\
+Awesome Markdown。Markdown 工具和学习资源的列表。
+
+-    Typesetting Markdown. A multi-part series that describes an ecosystem for typesetting Markdown documents using pandoc and ConTeXt.
+Typesetting Markdown。多部分系列，用于使用 pandoc 和 ConTeXt 排版 Markdown 文档的生态系统。
 
