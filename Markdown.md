@@ -44,7 +44,7 @@ You can add Markdown formatting elements to a plaintext file using a text editor
 Depending on the application you use, you may not be able to preview the formatted document in real time. But that’s okay. [According to Gruber](https://daringfireball.net/projects/markdown/), Markdown syntax is designed to be readable and unobtrusive, so the text in Markdown files can be read even if it isn’t rendered.\
 根据你使用的应用程序，可能无法实时预览格式化的文档。不过，没有关系。根据 Gruber 的说法，Markdown 的语法设计为可读且不突显，因此即使未渲染，也可以读取 Markdown 文件中的文本。
 
-    The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions.\
+    The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions.
     Markdown 格式语法的首要设计目标是使其尽可能的可读。其理念是，一个 Markdown 格式的文档，应按照纯文本的形式发布，而不是看起来像是被标记的标记或格式说明文档。
 
 ## Why Use Markdown?
