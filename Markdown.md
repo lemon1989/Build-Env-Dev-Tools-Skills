@@ -212,23 +212,28 @@ Markdown is a natural fit for technical documentation. Companies like GitHub are
 Markdown 是技术文档的自然适合。像 GitHub 这样的公司越来越多地切换到 Markdown 来制作文档 ， 请查看他们的博客文章，了解他们如何将 Markdown 格式的文档迁移到 Jekyll。如果你为产品或服务编写文档，请查看以下方便的工具：
 
 
--    Read the Docs can generate a documentation website from your open source Markdown files. Just connect your GitHub repository to their service and push — Read the Docs does the rest. They also have a service for commercial entities.
+-    Read the Docs can generate a documentation website from your open source Markdown files. Just connect your GitHub repository to their service and push — Read the Docs does the rest. They also have a service for commercial entities.\
 阅读文档可以从开源 Markdown 文件生成文档网站。只需将 GitHub 仓库连接到他们的服务并推送 – 接下来就是阅读文档。它们还为商业实体提供服务。
 
--    MkDocs is a fast and simple static site generator that’s geared towards building project documentation. Documentation source files are written in Markdown and configured with a single YAML configuration file. MkDocs has several built in themes, including a port of the Read the Docs documentation theme for use with    MkDocs. One of the newest themes is MkDocs Material.
+-    MkDocs is a fast and simple static site generator that’s geared towards building project documentation. Documentation source files are written in Markdown and configured with a single YAML configuration file. MkDocs has several built in themes, including a port of the Read the Docs documentation theme for use with    MkDocs. One of the newest themes is MkDocs Material.\
 MkDocs 是一个快速而简单的静态网站生成器，旨在构建项目文档。文档源文件以 Markdown 方式写入，并配置了单个 YAML 配置文件。MkDocs 有几个内置的主题，包括用于 MkDocs 的"阅读 Docs 文档"的主题的端口。最新的主题之一是MkDocs Material。
 
--    Docusaurus is a static site generator designed exclusively for creating documentation websites. It supports translations, search, and versioning.
+-    Docusaurus is a static site generator designed exclusively for creating documentation websites. It supports translations, search, and versioning.\
 Docusaurus 是一个静态网站生成器，专为创建文档网站而设计。它支持翻译、搜索和版本控制。
 
--    VuePress is a static site generator powered by Vue and optimized for writing technical documentation.
+-    VuePress is a static site generator powered by Vue and optimized for writing technical documentation.\
 VuePress 是一种静态网站生成器，由 Vue 支持，并针对编写技术文档进行了优化。
 
--    Jekyll was mentioned earlier in the section on websites, but it’s also a good option for generating a documentation website from Markdown files. If you go this route, be sure to check out the Jekyll documentation theme.
+-    Jekyll was mentioned earlier in the section on websites, but it’s also a good option for generating a documentation website from Markdown files. If you go this route, be sure to check out the Jekyll documentation theme.\
 Jekyll 在网站部分前面提到过，但它也是从 Markdown 文件生成文档网站的一个很好的选择。如果走这条路线，请务必查看 Jekyll 文档主题。
 
 
 ## Flavors of Markdown
+Markdown 特色
+
+One of the most confusing aspects of using Markdown is that practically every Markdown application implements a slightly different version of Markdown. These variants of Markdown are commonly referred to as flavors. It’s your job to master whatever flavor of Markdown your application has implemented.\
+
+
 
 ## Additional Resources
 
