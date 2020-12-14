@@ -132,10 +132,10 @@ Markdown was designed for the web, so it should come as no surprise that there a
 Markdown 是为 Web 网站设计的，因此，有很多专门为创建网站内容而设计的应用程序，这点不足为奇。
 
 If you’re looking for the simplest possible way to create a website with Markdown files, check out blot.im and smallvictori.es. After you sign up for one of these services, they create a Dropbox folder on your computer. Just drag and drop your Markdown files into the folder and — poof! — they’re on your website. It couldn’t be easier.\
-如果你正在寻找使用 Markdown 文件来创建一个网站的最简单的方法，使用 blot.im 和 smallvictori.es。注册任一这些服务后，他们会在你的计算机上创建一个 Dropbox 文件夹。只需将 Markdown 文件拖入并放置到 Dropbox 文件夹中，然后执行 # poof，它们就会在你的网站上。这简单多了。
+如果你正在寻找使用 Markdown 文件来创建一个网站的最简单的方法，查看 blot.im 和 smallvictori.es。注册任一这些服务后，他们会在你的计算机上创建一个 Dropbox 文件夹。只需将 Markdown 文件拖入并放置到 Dropbox 文件夹中，然后执行 # poof，它们就会在你的网站上。这简单多了。
 
 If you’re familiar with HTML, CSS, and version control, check out Jekyll, a popular static site generator that takes Markdown files and builds an HTML website. One advantage to this approach is that GitHub Pages provides free hosting for Jekyll-generated websites. If Jekyll isn’t your cup of tea, just pick one of the many other static site generators available.\
-如果你熟悉 HTML、CSS 和版本控制，使用 Jekyll，这是一个流行的静态网站生成器，它采用 Markdown 文件来构建 HTML 网站。这种方法的一个优点是 GitHub Pages 为 Jekyll 生成的网站提供免费托管。如果 Jekyll 不是你的一杯茶，只需选择许多其他静态网站生成器便可使用。
+如果你熟悉 HTML、CSS 和版本控制，查看 Jekyll，这是一个流行的静态网站生成器，它采用 Markdown 文件来构建 HTML 网站。这种方法的一个优点是 GitHub Pages 为 Jekyll 生成的网站提供免费托管。如果 Jekyll 不是你的一杯茶，只需选择许多其他静态网站生成器便可使用。
 
 If you’d like to use a content management system (CMS) to power your website, take a look at Ghost. It’s a free and open-source blogging platform with a nice Markdown editor. If you’re a WordPress user, you’ll be happy to know there’s Markdown support for websites hosted on WordPress.com. Self-hosted WordPress sites can use the Jetpack plugin.\
 如果你想使用内容管理系统 （CMS） 为网站供电，使用 Ghost。这是一个免费的开源博客平台，有一个不错的 Markdown 编辑器。如果你是 WordPress 用户，你将很高兴地知道，你在 WordPress.com网站上托管的网站支持 Markdown。自托管的 WordPress 网站可以使用 Jetpack 插件。
@@ -185,13 +185,25 @@ In nearly every way, Markdown is the ideal syntax for taking notes. Sadly, Evern
     Boostnote 宣布自己是一个"专为程序员设计的开源笔记应用"。
 
 If you can’t part with Evernote, check out Marxico, a subscription-based Markdown editor for Evernote, or use Markdown Here with the Evernote website.\
-如果你必须使用 Evernote，使用基于 Evernote 设计的 Markdown 编辑器 Marxico，或者使用 Evernote 网站上的 Markdown。
+如果你必须使用 Evernote，查看 Evernote 设计的 Markdown 编辑器 Marxico，或者使用 Evernote 网站上的 Markdown。
 
 ### Books
+图书
+
+Looking to self-publish a novel? Try Leanpub, a service that takes your Markdown-formatted files and turns them into an electronic book. Leanpub outputs your book in PDF, EPUB, and MOBI file format. If you’d like to create paperback copies of your book, you can upload the PDF file to another service such as Kindle Direct Publishing. To learn more about writing and self-publishing a book using Markdown, read this blog post.\
+想要自己出版一部小说吗？试试 Leanpub，一种将你的 Markdown 格式的文件转换为电子书的服务。Leanpub 以 PDF、EPUB 和 MOBI 文件格式输出你的图书。如果你想创建图书的平装本，你可以将 PDF 文件上传到其他服务，如 Kindle 出版服务。要了解有关使用 Markdown 来编写和自行出版书籍的信息，请阅读此博客文章。
 
 ### Presentations
+演示文稿
+
+Believe it or not, you can generate presentations from Markdown-formatted files. Creating presentations in Markdown takes a little getting used to, but once you get the hang of it, it’s a lot faster and easier than using an application like PowerPoint or Keynote. Remark (GitHub project) is a popular browser-based Markdown slideshow tool, as is Cleaver (GitHub project). If you use a Mac and would prefer to use an application, check out Deckset or Marked.\
+不管你是否相信，你可以从 Markdown 格式的文件生成演示文稿。在 Markdown 中创建演示文稿需要一点时间来习惯，但一旦你了解它，它比使用 PowerPoint 或 Keynote 等应用程序更快、更容易。Remark（GitHub 项目）是一种流行的基于浏览器的 Markdown 幻灯片工具，Cleaver（GitHub 项目）就是一种。如果你使用 Mac，并且希望使用应用程序，请查看 Deckset 或 Marked。
 
 ### Email
+邮件
+
+If you send a lot of email and you’re tired of the formatting controls available on most email provider websites, you’ll be happy to learn there’s an easy way to write email messages using Markdown. Markdown Here is a free and open-source browser extension that converts Markdown-formatted text into HTML that’s ready to send.\
+如果你发送大量电子邮件，并且厌倦了大多数电子邮件提供商网站上的可用的格式设置控件，你将很乐意学习使用 Markdown 编写电子邮件的简单方法。Markdown 是一个免费的开源浏览器扩展，它会把 Markdown 格式的文本转换为准备发送的 HTML。
 
 ### Documentation
 
