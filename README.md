@@ -2,14 +2,16 @@
 
 ## CMake
 
-1.CMake supports GDB debugging when compiled
+1、CMake supports GDB debugging when compiled
 
 ## Markdown
 
-1.Markdown Edit Syntax
+1、Markdown Edit Syntax
 
 
 ## Tools-Install
 
-1.Install Docker (Fedora version)
+1、Install Docker (Fedora version)
 
+## Docker
+1、run docker
